@@ -22,6 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-startbootstrap-agency
+sass: # Enables the conversion of css/agency.min.scss to css/agency.min.css
+  style: compressed # Minify css/agency.min.css
+
 plugins:
   - jekyll-feed
 
