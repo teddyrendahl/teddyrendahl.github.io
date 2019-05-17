@@ -84,13 +84,3 @@ team:
           url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"

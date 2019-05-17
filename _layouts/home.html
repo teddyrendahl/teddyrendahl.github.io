@@ -158,20 +158,3 @@ layout: default
         </div>
       </div>
     </section>
-
-    <!-- Clients -->
-    <section class="py-5">
-      <div class="container">
-        <div class="row">
-          {%- for client in site.data.home.clients -%}
-          {% assign ws = '' %}
-          <div class="col-md-3 col-sm-6">
-            <a href="{{ client.url }}">
-              <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ client.img }}" alt="">
-            </a>
-          </div>
-          {%-  endfor -%}
-        {% assign ws = '' %}
-        </div>
-      </div>
-    </section>
