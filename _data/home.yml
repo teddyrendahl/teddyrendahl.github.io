@@ -1,8 +1,3 @@
-ntro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
-
 services:
   heading: Services
   subheading: Lorem ipsum dolor sit amet consectetur.
