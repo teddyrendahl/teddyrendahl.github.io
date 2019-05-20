@@ -25,12 +25,10 @@ layout: default
           </div>
         </div>
         <div class="row justify-content-md-center">
-          {%- for member in site.data.home.team.members -%}
-          {% assign ws = '' %}
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ member.img }}" alt="">
-              <p class="text-muted">{{ member.role }}</p>
+              <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ site.data.home.team.img }}" alt="">
+              <p class="text-muted">{{ site.data.home.team.role }}</p>
               <ul class="list-inline social-buttons">
                 {%- for sm in site.data.social.social-buttons -%}
                 {% assign ws = '' %}
@@ -44,8 +42,6 @@ layout: default
               </ul>
             </div>
           </div>
-          {%- endfor -%}
-        {% assign ws = '' %}
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
