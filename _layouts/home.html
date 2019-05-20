@@ -34,7 +34,7 @@ layout: default
               <h4>{{ member.name }}</h4>
               <p class="text-muted">{{ member.role }}</p>
               <ul class="list-inline social-buttons">
-                {%- for sm in member.social-buttons -%}
+                {%- for sm in site.data.social.social-buttons -%}
                 {% assign ws = '' %}
                 <li class="list-inline-item">
                   <a href="{{ sm.url }}">
