@@ -1,3 +1,9 @@
+team:
+  heading: Teddy Rendahl
+  members:
+    - img: img/teddy_rendahl.jpeg
+    - role: A passionate learner who relishes tackling difficult problems. A dedicated worker, who succeeds in interdisciplinary groups with both engineering and scientific goals.
+
 services:
   heading: Services
   subheading: Lorem ipsum dolor sit amet consectetur.
@@ -41,41 +47,3 @@ about:
   end2: Of Our
   end3: Story!
 
-team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/team/1.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-        
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
