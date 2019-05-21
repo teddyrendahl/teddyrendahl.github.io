@@ -11,8 +11,6 @@ nav:
     url: '#portfolio'
   - title: About
     url: '#about'
-  - title: Contact
-    url: '#contact'
 
 copyright: Copyright &copy; Your Website 2018
 
