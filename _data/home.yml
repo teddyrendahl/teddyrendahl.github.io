@@ -1,7 +1,10 @@
 team:
   heading: Teddy Rendahl
   img: img/teddy_rendahl.jpeg
-  role: A passionate learner who relishes tackling difficult problems. A dedicated worker, who succeeds in interdisciplinary groups with both engineering and scientific goals.
+  role: >
+    A passionate learner who relishes tackling difficult problems. A dedicated
+    worker, who succeeds in interdisciplinary groups with both engineering and
+    scientific goals.
 
 services:
   heading: Services
