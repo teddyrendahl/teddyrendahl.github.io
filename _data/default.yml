@@ -5,12 +5,12 @@ menu-string: Menu
 nav:
   - title: Who
     url: '#who'
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
-  - title: About
-    url: '#about'
+  - title: What
+    url: '#what'
+  - title: Where
+    url: '#where'
+  - title: Why
+    url: '#why'
 
 copyright: Copyright &copy; Your Website 2018
 
