@@ -31,10 +31,6 @@ services:
         lab equipment. Comfortable working with intricate instrumentation where
         measurements are sensitive and equipment safety is critical.
 
-portfolio:
-  heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
-
 about:
   heading: About
   subheading: Lorem ipsum dolor sit amet consectetur.
@@ -60,3 +56,6 @@ about:
   end2: Of Our
   end3: Story!
 
+portfolio:
+  heading: Portfolio
+  subheading: Lorem ipsum dolor sit amet consectetur.
