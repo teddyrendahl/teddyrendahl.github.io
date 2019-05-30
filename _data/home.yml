@@ -7,18 +7,29 @@ team:
     scientific goals.
 
 services:
-  heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Skills
   service:
-    - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fab fa-python
+      heading: Python
+      text: >
+        Confident anywhere in the Python ecosystem. Experience with the
+        standard library as well all common scientific libraries. Comfortable
+        creating maintainable, well-tested packages distributed in either CONDA
+        or PyPI.
+    - icon: fa fa-desktop
+      heading: Interface Design
+      text: >
+        Understanding how users approach interfaces for complex tasks requires
+        a mix of compassion, abstraction and vision. I enjoy the creativity and
+        interpersonal challenges involved in creating simple displays for
+        intricate processes. What makes me unique is having the technical
+        background to take what starts as mere sketches to robust applications.
+    - icon: fa fa-cogs
+      heading: Automation
+      text: >
+        Experienced writing software to control hundreds of different pieces of
+        lab equipment. Comfortable working with intricate instrumentation where
+        measurements are sensitive and equipment safety is critical.
 
 portfolio:
   heading: Portfolio
