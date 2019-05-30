@@ -32,28 +32,28 @@ services:
         measurements are sensitive and equipment safety is critical.
 
 about:
-  heading: About
+  heading: Resume
   timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+    - image: img/slac.jpg
+      date: June 2015
+      title: SLAC National Accelerator Laboratory
+      text: >
+        Design software to help experimenters understand the inner workings of
+        molecules on a femtosecond scale. The most interesting points of
+        exploration have been in automation and data visualization.
+        Specifically, how those two systems intertwined can help with operation
+        of complex instrumentation.
+    - image: img/ucsc.jpg
+      date: June 2014
+      title: UC Santa Cruz
+      text: >
+        I earned my Bachelor Degree in Applied Physics at UC Santa Cruz. The
+        breadth of courses in the discipline allowed me to follow interests
+        from General Relativity to Electrical Engineering. While there I also
+        worked closely on a Python based simulation suite for to estimate the
+        stochastic variation over distant galaxies life spans. The work not
+        only received the <strong/>Undergraduate Research Award</strong>, but
+        was my first foray into the power of scientific computing.
 
 portfolio:
   heading: Portfolio
