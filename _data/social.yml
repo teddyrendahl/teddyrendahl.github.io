@@ -1,7 +1,7 @@
 social-buttons:
-  - icon: fa fa-github-alt
+  - icon: fab fa-github-alt
     url: "https://github.com/teddyrendahl"
-  - icon: fa fa-linkedin
+  - icon: fab fa-linkedin-in
     url: "https://www.linkedin.com/in/teddy-rendahl-2221a38b/"
   - icon: fa fa-envelope
     url: "mailto:teddy.rendahl@gmail.com"
