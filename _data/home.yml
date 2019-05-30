@@ -33,7 +33,6 @@ services:
 
 about:
   heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
     - image: img/about/1.jpg
       date: 2009-2011
