@@ -109,8 +109,15 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">{{ project.title }}</h2>
+		  {%- if project.image -%}
                   <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ project.image }}" alt="">
                   {% assign ws = '' %}
+		  {%- endif -%}
+		  {%- if project.video -%}
+		  <div class="embed-responsive embed-responsive-4by3">
+		    <iframe class="embed-responsive-item" src="{{ project.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		  </div>
+		  {%- endif -%}
                   {{- project.content -}}
                   {% assign ws = '' %}
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
