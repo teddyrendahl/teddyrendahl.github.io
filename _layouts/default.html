@@ -109,15 +109,10 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">{{ project.title }}</h2>
-                  <p class="item-intro text-muted">{{ project.description }}</p>
                   <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ project.image }}" alt="">
                   {% assign ws = '' %}
                   {{- project.content -}}
-                  {% assign ws = '' %}                  <ul class="list-inline">
-                    <li>{{ site.data.default.modal.date-string }}{{ project.date | date: "%B %Y" }}</li>
-                    <li>{{ site.data.default.modal.client-string }}{{ project.client }}</li>
-                    <li>{{ site.data.default.modal.category-string }}{{ project.category }}</li>
-                  </ul>
+                  {% assign ws = '' %}
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="{{ site.data.default.modal.close-icon }}"></i>
                     {{ site.data.default.modal.close-string }}</button>
