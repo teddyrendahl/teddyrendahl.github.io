@@ -28,6 +28,8 @@ sass: # Enables the conversion of css/agency.min.scss to css/agency.min.css
 plugins:
   - jekyll-feed
 
+collections:
+  projects:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
