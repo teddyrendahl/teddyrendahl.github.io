@@ -12,13 +12,7 @@ nav:
   - title: Why
     url: '#portfolio'
 
-copyright: Copyright &copy; Your Website 2018
-
-quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
+copyright: Copyright &copy; Teddy Rendahl 2019
 
 modal:
   date-string: 'Date: '
