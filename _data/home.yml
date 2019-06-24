@@ -2,8 +2,8 @@ team:
   heading: Teddy Rendahl
   img: img/teddy_rendahl.jpeg
   role: >
-    A passionate learner who relishes tackling difficult problems. A dedicated
-    worker, who succeeds in interdisciplinary groups with both engineering and
+    A passionate learner who relishes tackling difficult problems.  
+    Successful in interdisciplinary groups with both engineering and
     scientific goals.
 
 services:
@@ -13,23 +13,20 @@ services:
       heading: Python
       text: >
         Confident anywhere in the Python ecosystem. Experience with the
-        standard library as well all common scientific libraries. Comfortable
-        creating maintainable, well-tested packages distributed in either CONDA
-        or PyPI.
-    - icon: fa fa-desktop
-      heading: Interface Design
+        standard library as well all common scientific libraries.  Created
+        maintainable, well-tested packages distributed in either CONDA or PyPI.
+    - icon: fa fa-chart-line
+      heading: Data Analysis
       text: >
-        Understanding how users approach interfaces for complex tasks requires
-        a mix of compassion, abstraction and vision. I enjoy the creativity and
-        interpersonal challenges involved in creating simple displays for
-        intricate processes. What makes me unique is having the technical
-        background to take what starts as mere sketches to robust applications.
+        Comfortable manipulating complex datasets. This includes streaming
+        datasets where the performance of algorithms is crucial to provide
+        real-time feedback.
     - icon: fa fa-cogs
       heading: Automation
       text: >
         Experienced writing software to control hundreds of different pieces of
-        lab equipment. Comfortable working with intricate instrumentation where
-        measurements are sensitive and equipment safety is critical.
+        lab equipment. Worked with intricate instrumentation where measurements
+        are sensitive and equipment safety is critical.
 
 about:
   heading: Resume
@@ -47,7 +44,7 @@ about:
       date: June 2014
       title: UC Santa Cruz
       text: >
-        I earned my Bachelor Degree in Applied Physics at UC Santa Cruz. The
+        Earned my Bachelor Degree in Applied Physics at UC Santa Cruz. The
         breadth of courses in the discipline allowed me to follow interests
         from General Relativity to Electrical Engineering. While there I also
         worked closely on a Python based simulation suite for to estimate the
