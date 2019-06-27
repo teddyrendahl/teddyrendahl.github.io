@@ -24,31 +24,26 @@ layout: default
             <h2 class="section-heading text-uppercase">{{ site.data.home.team.heading }}</h2>
           </div>
         </div>
-        <div class="row justify-content-md-center">
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ site.data.home.team.img }}" alt="">
-              <p class="text-muted">{{ site.data.home.team.role }}</p>
-              <ul class="list-inline social-buttons">
-                {%- for sm in site.data.social.social-buttons -%}
-                {% assign ws = '' %}
-                <li class="list-inline-item">
-                  <a href="{{ sm.url }}">
-                    <i class="{{ sm.icon }}"></i>
-                  </a>
-                </li>
-                {%- endfor -%}
-              {% assign ws = '' %}
-              </ul>
-            </div>
-          </div>
+        <div class="team-member">
+          <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ site.data.home.team.img }}" alt="">
+          <p class="text-muted">{{ site.data.home.team.role }}</p>
+          <ul class="list-inline social-buttons">
+            {%- for sm in site.data.social.social-buttons -%}
+            {% assign ws = '' %}
+            <li class="list-inline-item">
+              <a href="{{ sm.url }}">
+                <i class="{{ sm.icon }}"></i>
+              </a>
+            </li>
+            {%- endfor -%}
+          {% assign ws = '' %}
+          </ul>
         </div>
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">{{ site.data.home.team.text }}</p>
-          </div>
-        </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <p class="large text-muted">{{ site.data.home.team.text }}</p>
       </div>
+    </div>
     </section>
 
     <!-- What -->
