@@ -39,7 +39,6 @@ about:
         deployment and utilization of a variety of Machine Learning models
         for Computer Vision and robot control. Managed external APIs used by 
         customers around the world.
-  timeline:
     - image: img/slac.jpg
       date: June 2015
       title: SLAC National Accelerator Laboratory
