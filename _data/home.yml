@@ -44,7 +44,7 @@ about:
       date: June 2015
       title: SLAC National Accelerator Laboratory
       text: >
-	Designed software to help experimenters understand the inner workings
+        Designed software to help experimenters understand the inner workings
         of molecules on a femtosecond scale. Wrote software in a fast pased environment
         to utilize instrumentation SDKs, to record, analyze and store data. Also
         responsible for the design of user interfaces and APIs for use by scientific
