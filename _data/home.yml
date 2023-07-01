@@ -3,8 +3,8 @@ team:
   img: img/teddy_rendahl.jpeg
   role: >
     A passionate learner who relishes tackling difficult problems.  
-    Successful in interdisciplinary groups with both engineering and
-    scientific goals.
+    Experienced software engineer who has architected systems deployed
+    across the globe.
 
 services:
   heading: Skills
@@ -13,20 +13,24 @@ services:
       heading: Python
       text: >
         Confident anywhere in the Python ecosystem. Experience with the
-        standard library as well all common scientific libraries.  Created
-        maintainable, well-tested packages distributed in either CONDA or PyPI.
-    - icon: fa fa-chart-line
-      heading: Data Analysis
+        standard library as well all common scientific libraries. Used Python
+        for production systems involving Computer Vision, Data Pipelines, Web
+        services, Robotics and more.
+    - icon: fa fa-brain
+      heading: System Architecture
       text: >
-        Comfortable manipulating complex datasets. This includes streaming
-        datasets where the performance of algorithms is crucial to provide
-        real-time feedback.
+        Worked with Product and Sales team to develop complete scalable solutions.
+        Managed a team of engineers using a multitude of technologies to deliver
+        quality software. Designed APIs and microservices for systems
+        using cutting edge AI to interact with hardware. 
+       
     - icon: fa fa-cogs
       heading: Automation
       text: >
-        Experienced writing software to control hundreds of different pieces of
-        lab equipment. Worked with intricate instrumentation where measurements
-        are sensitive and equipment safety is critical.
+        Experienced using state of the art Computer Vision and AI technologies
+        to create practical products for Warehouse Automation. Collaborated with 
+        product and engineering teams to collect data, train and deploy models
+        in a space where demands for accuracy and throughput are high.
 
 about:
   heading: Resume
@@ -35,10 +39,10 @@ about:
       date: September 2019
       title: OSARO
       text: >
-        Developed software to allow robots to manipulate objects. Helped in the
-        deployment and utilization of a variety of Machine Learning models
-        for Computer Vision and robot control. Managed external APIs used by 
-        customers around the world.
+        Developed software using Rust and Python to allow robots to manipulate objects.
+        Managed a software team in a startup environment utilizing modern 
+        Computer Vision and AI techniques. Developed external APIs using multiple protocols
+        utilized by customers around the world.
     - image: img/slac.jpg
       date: June 2015
       title: SLAC National Accelerator Laboratory
