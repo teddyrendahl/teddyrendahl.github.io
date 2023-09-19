@@ -2,9 +2,9 @@ team:
   heading: Teddy Rendahl
   img: img/teddy_rendahl.jpeg
   role: >
-    A passionate learner who relishes tackling difficult problems.  
     Experienced software engineer who has architected systems deployed
-    across the globe.
+    across the globe. Built backend services for data analysis, AI model
+    inference, training, and warehouse automation. 
 
 services:
   heading: Skills
@@ -12,39 +12,36 @@ services:
     - icon: fab fa-python
       heading: Python
       text: >
-        Confident anywhere in the Python ecosystem. Experience with the
+        Confident anywhere in the Python ecosystem. Experienced with the
         standard library as well all common scientific libraries. Used Python
         for production systems involving Computer Vision, Data Pipelines, Web
-        services, Robotics and more.
+        Services, Robotics and more.
     - icon: fa fa-brain
       heading: System Architecture
       text: >
-        Worked with Product and Sales team to develop complete scalable solutions.
-        Managed a team of engineers using a multitude of technologies to deliver
-        quality software. Designed APIs and microservices for systems
-        using cutting edge AI to interact with hardware. 
+        Worked with Product and Sales team to develop complete scalable software solutions.
+        Designed APIs and microservices for systems using cutting edge AI to interact with hardware. 
        
     - icon: fa fa-cogs
       heading: Automation
       text: >
-        Experienced using state of the art Computer Vision and AI technologies
-        to create practical products for Warehouse Automation. Collaborated with 
-        product and engineering teams to collect data, train and deploy models
-        in a space where demands for accuracy and throughput are high.
+        Skilled at using state of the art Computer Vision and AI technologies
+        to create practical products for warehouse automation. Built reliable backend systems
+        to collect data, train and deploy models in a space where demands for accuracy and throughput are high.
 
 about:
   heading: Resume
   timeline:
     - image: img/osaro.png
-      date: September 2019
+      date: 2019 - 2023
       title: OSARO
       text: >
         Developed software using Rust and Python to allow robots to manipulate objects.
         Managed a software team in a startup environment utilizing modern 
-        Computer Vision and AI techniques. Developed external APIs using multiple protocols
+        Computer Vision and AI techniques. Created external APIs using multiple protocols
         utilized by customers around the world.
     - image: img/slac.jpg
-      date: June 2015
+      date: 2015 - 2019
       title: SLAC National Accelerator Laboratory
       text: >
         Designed software to help experimenters understand the inner workings
@@ -53,7 +50,7 @@ about:
         data. Also responsible for the design of user interfaces and APIs for use
         by scientific staff.
     - image: img/ucsc.jpg
-      date: June 2014
+      date: 2010 - 2014
       title: UC Santa Cruz
       text: >
         Earned my Bachelor Degree in Applied Physics at UC Santa Cruz. The
@@ -65,4 +62,4 @@ about:
         was my first foray into the power of scientific computing.
 
 portfolio:
-  heading: Projects
+  heading: Open Source Projects
