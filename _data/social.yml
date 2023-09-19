@@ -3,5 +3,7 @@ social-buttons:
     url: "https://github.com/teddyrendahl"
   - icon: fab fa-linkedin-in
     url: "https://www.linkedin.com/in/teddy-rendahl-2221a38b/"
+  - icon: fab fa-medium
+    url: "https://medium.com/@teddy.rendahl"
   - icon: fa fa-envelope
     url: "mailto:teddy.rendahl@gmail.com"
