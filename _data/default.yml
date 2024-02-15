@@ -3,16 +3,16 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Who
-    url: '#who'
-  - title: What
-    url: '#what'
-  - title: Where
-    url: '#where'
-  - title: Why
-    url: '#portfolio'
+  # - title: Who
+  #   url: '#who'
+  # - title: What
+  #   url: '#what'
+  # - title: Where
+  #   url: '#where'
+  # - title: Why
+  #   url: '#portfolio'
 
-copyright: Copyright &copy; Teddy Rendahl 2019
+copyright: Copyright &copy; Teddy Rendahl 2024
 
 modal:
   date-string: 'Date: '
